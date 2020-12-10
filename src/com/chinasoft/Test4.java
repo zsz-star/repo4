@@ -23,7 +23,8 @@ public class Test4 {
                 int num4 = in.nextInt();
                 num2 = num4;
                 System.out.println("修改密码成功，您的新密码为：" + num4);
-            }
+          
+		  }
         }
     }
 }
